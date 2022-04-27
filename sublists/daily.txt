@@ -1,0 +1,23 @@
+-MORNING
+drink water
+meds
+eat breakfast
+get dressed
+brush teeth
+floss
+
+-AA CATEGORY
+this is a category or tag.
+categories are indicated by - at the beginning of the line.
+I capitalize them for readability.
+they show up alphabetically in your list.txt.
+I usually load my daily list, stop the program, 
+and then put letters or numbers next to my categories to give them an order
+and then restart the program
+if you use the exact same name of a category in multiple files, 
+those categories will be combined automatically
+
+-z EVENING
+wash face
+dressed for bed
+evening brush teeth
