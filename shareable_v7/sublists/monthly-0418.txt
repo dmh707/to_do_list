@@ -1,0 +1,6 @@
+-MONTHLY 0418
+monthly-0418.txt loads on the 4th and the 18th of every month.
+you may include as many dates as you wish in naming a file. 
+each date must be 2 digits
+maybe don't use dates bigger than 28.
+I don't know what would happen if my code tried to figure out when Feb 30th is
