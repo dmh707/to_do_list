@@ -1,8 +1,0 @@
--TO DO list
-this is the to do list
-once your to do list has been generated for the day, the program only uses this file
-once the to do list has been generated for the day, if the program is not running, 
-you may edit this file as much as you want.
-The program will not load a task to this list if it already exists
-This list will carry over to the next day
-do not edit this list while the program is running or your changes will be lost.

@@ -1,2 +1,0 @@
--WEEKLY M 
-weekly-M.txt loads every Monday

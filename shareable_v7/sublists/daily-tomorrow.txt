@@ -1,4 +1,0 @@
-This file is for tasks you don't want to do today, or need to do tomorrow
-Don't forget to delete the text of this file once it's been updated! 
-This file is functionally identical to daily.txt
-I separated them so I don't mess with my reoccurring daily tasks when I didn't want to
